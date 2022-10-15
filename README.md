@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagar-v3
 - 👀 I’m interested in devlopment
 - 🌱 I’m currently learning 'MERN' stack with advanced c++ 
-- 💞️ I’m looking to collaborate on progects which can give me more knowledge as im a beginner
+- 💞️ I’m looking to collaborate on projects which can give me more knowledge as im a beginner
 - 📫 How to reach me ... Sagarverma5185@gmail.com
 
 <!---
